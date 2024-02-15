@@ -8,3 +8,5 @@ Boosted operational effectiveness
 The main goal of DevOps is to reduce software development time and speed up the release of updates making operational processes more dynamic and predictable and maximizing their efficiency and security.
 Higher rate of revenue
 According to EMA, companies that use the DevOps strategy are 11 times more likely to see double-digit annual revenue growth.
+Improved customer satisfaction 
+DevOps can help companies improve customer satisfaction. Improving customer service results in increased customer loyalty, retention, improved sales, and increased ROI.

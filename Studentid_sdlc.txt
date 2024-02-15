@@ -4,3 +4,5 @@ Why do companies need DevOps Engineers?
 A DevOps Engineer should be involved in your software development process for five major reasons.
 increased adaptability
 The necessities of software development are rapidly evolving in today's society. DevOps engineers assist you in implementing new features and responding to adjustments rapidly to meet contemporary challenges.
+Boosted operational effectiveness 
+The main goal of DevOps is to reduce software development time and speed up the release of updates making operational processes more dynamic and predictable and maximizing their efficiency and security.

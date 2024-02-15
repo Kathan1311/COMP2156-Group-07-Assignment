@@ -10,3 +10,6 @@ Higher rate of revenue
 According to EMA, companies that use the DevOps strategy are 11 times more likely to see double-digit annual revenue growth.
 Improved customer satisfaction 
 DevOps can help companies improve customer satisfaction. Improving customer service results in increased customer loyalty, retention, improved sales, and increased ROI.
+Increased competitiveness 
+DevOps increases the software quality and reduces the release time for updates making your product more competitive. It also allows you to get timely feedback and make necessary improvements, according to the received data.
+

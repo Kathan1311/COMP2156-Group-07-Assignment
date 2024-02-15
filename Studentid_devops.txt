@@ -2,3 +2,5 @@ A practical introductory course for database professionals, data analysts, busin
 It builds on COMP 2362 or COMP 2364 and assumes that students are familiar with advanced MS Excel tools and statistics for data analysis.
 A quick introduction to Microsoft Power BI's foundational components and associated services is given to the students at the outset. 
 They learn how to import various types of data from various sources into Power BI Desktop. The main focus of the laboratories and exercises in class is on modeling, exploring, cleaning, and transforming basic data for business reports.
+For homework assignments and online parts, high-speed internet connectivity is required.
+COMP 2156 is a mandatory course for the Applied Data Analytics Certificate (ADAC) and an elective for many BCIT Computing credentials, such as the CST Diploma (FLEX). 

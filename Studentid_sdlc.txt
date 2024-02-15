@@ -1,1 +1,6 @@
-
+DevOps engineers assist you in implementing new features and responding to adjustments rapidly to meet contemporary challenges. 
+DevOps' primary objective is to shorten the time it takes to develop software, accelerate the release of updates, increase the efficiency and security of operational processes, and make them more dynamic and predictable.
+Why do companies need DevOps Engineers?
+A DevOps Engineer should be involved in your software development process for five major reasons.
+increased adaptability
+The necessities of software development are rapidly evolving in today's society. DevOps engineers assist you in implementing new features and responding to adjustments rapidly to meet contemporary challenges.

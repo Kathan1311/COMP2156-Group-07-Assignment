@@ -6,3 +6,5 @@ increased adaptability
 The necessities of software development are rapidly evolving in today's society. DevOps engineers assist you in implementing new features and responding to adjustments rapidly to meet contemporary challenges.
 Boosted operational effectiveness 
 The main goal of DevOps is to reduce software development time and speed up the release of updates making operational processes more dynamic and predictable and maximizing their efficiency and security.
+Higher rate of revenue
+According to EMA, companies that use the DevOps strategy are 11 times more likely to see double-digit annual revenue growth.

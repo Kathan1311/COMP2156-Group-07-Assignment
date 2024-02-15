@@ -1,2 +1,4 @@
 A practical introductory course for database professionals, data analysts, business analysts, and managers is called COMP 2156.
 It builds on COMP 2362 or COMP 2364 and assumes that students are familiar with advanced MS Excel tools and statistics for data analysis.
+A quick introduction to Microsoft Power BI's foundational components and associated services is given to the students at the outset. 
+They learn how to import various types of data from various sources into Power BI Desktop. The main focus of the laboratories and exercises in class is on modeling, exploring, cleaning, and transforming basic data for business reports.

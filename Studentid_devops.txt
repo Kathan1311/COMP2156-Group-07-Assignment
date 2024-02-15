@@ -1,0 +1,3 @@
+COMP 2156 at George Brown College is titled
+"DevOps For System Administration" and is part of the Computer Systems Technology
+(T147) pathway. This course requires COMP 2155 as a prerequisite and allocates 4 hours per week to its instruction.
